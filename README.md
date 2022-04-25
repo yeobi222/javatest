@@ -7,8 +7,8 @@
 
 2. 기본 출력문을 변수로 대체해보기
 
-* 이클립스 기능 Extract Local Variable : 원하는 부분을 자동적으로 변수로 지정 선언하고 대체.
-드래그 후 우클릭-refactor-Extract Local Variable
+* 이클립스 기능 Extract Local Variable : 원하는 부분을 자동적으로 변수로 지정 선언하고 대체.  
+드래그 후 우클릭-refactor-Extract Local Variable  
 단축키: Alt+Shift+L
 
 3. 스캐너를 이용해 입력을 받고(클래스 import) 조건문 삽입해 출력 경우 다양화.
@@ -16,3 +16,5 @@
 4. 배열 도입.
 
 5. 반복문 도입.
+
+6. 전역변수와 메소드 도입.
